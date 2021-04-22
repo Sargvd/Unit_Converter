@@ -1,0 +1,3 @@
+# Project exclude paths
+/.gradle/
+/Unit Converter/task/build/
